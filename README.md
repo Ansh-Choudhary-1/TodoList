@@ -1,6 +1,11 @@
-# React + Vite
+# TodoList Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a TodoList project using React which provides the following features <br><br>
+- Toggle complete on/off button. <br>
+- Update TodoList feature. <br>
+- delete a Todo Item feature. <br>
+<br>
+This project saves Todo Content on local Storage so it does not get's deleted at refresh.
 
 Currently, two official plugins are available:
 
